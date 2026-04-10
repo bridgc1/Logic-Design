@@ -1,0 +1,14 @@
+# Quartus generated files
+*.qws
+*.rpt
+*_model_dump.txt
+output_files/
+db/
+incremental_db/
+simulation/
+
+# Programming files (never publish)
+*.sof
+*.pof
+*.jic
+``
